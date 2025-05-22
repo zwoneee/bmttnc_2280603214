@@ -31,3 +31,5 @@ class VigenereCipher:
             else:
                 decrypted_text += char
         return decrypted_text
+    
+# by T.Tien
